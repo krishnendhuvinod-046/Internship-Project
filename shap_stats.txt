@@ -1,0 +1,4 @@
+Mean SHAP value for frequency_of_use: -1.923952341079712
+Correlation between frequency_of_use and its SHAP value: -0.6014373752690549
+Mean SHAP value for complains: 0.029707597568631172
+Correlation between complains and its SHAP value: 0.9809518248011766
